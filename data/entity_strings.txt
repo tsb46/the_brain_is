@@ -1,1 +1,10 @@
 brain
+heart
+lung
+lungs
+liver
+stomach
+pancreas
+kidney
+kidneys
+
