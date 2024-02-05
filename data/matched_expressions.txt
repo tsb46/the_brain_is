@@ -65,8 +65,7 @@ the liver is a major site of C4BP synthesis
 The lung is the major target of ambient air pollution
 The liver is the main target organ for a wide range of toxic chemicals
 The liver is the major site for Cadmium accumulation and toxicity in human body
-The liver is the organ in which expression of UCPs is the lowest,
-in basal conditions
+The liver is the organ in which expression of UCPs is the lowest,in basal conditions
 The kidney is a complex organ that regulates blood homeostasis
 the liver is the major organ responsible for the production and degradation of apoB-100-containing lipoproteins
 the liver is a primary location for hematopoiesis in the fetus
@@ -109,7 +108,6 @@ The heart is the most aerobic of organs
 The lung is the most vulnerable remote organ after IIR
 The pancreas is an endodermally derived organ that forms from a ventral and a dorsal evagination of the foregut epithelium
 The kidney is an important organ
-
 The liver is the largest internal organ and one of the most studied in fish
 the liver is the first and only detectably infected tissue until H32 pi
 The liver is the most common site for the occurrence of the larval form of cystic hydatid disease
@@ -159,8 +157,7 @@ The liver is the source of most circulating complement
 the lung is the key site of elimination of this parasite
 The lung is the major portal of entry and transmission for variola virus
 The kidney is the most frequently affected organ, but LCDD can also occur in other organs such as the heart
-The lung is the most vulnerable site for
-distant recurrence
+The lung is the most vulnerable site fordistant recurrence
 The lung is the organ
 The heart is an uncommon site of origin
 the lung is a separate compartment from the BAL
@@ -305,10 +302,8 @@ the stomach is the most common site for bezoars
 The pancreas is a relatively infrequent site of distant metastasis
 The pancreas is a rather uncommon location of metastatic lung cancer
 The pancreas is a well-documented but relatively uncommon site of non-small-cell cancer metastases
-the liver is an organ that
-keeps growing during the post-natal period but all evidence suggests
-The liver is a central metabolic organ in charge of
-                        regulating nutrient homeostasis in fed and fasting conditions
+the liver is an organ thatkeeps growing during the post-natal period but all evidence suggests
+The liver is a central metabolic organ in charge of                        regulating nutrient homeostasis in fed and fasting conditions
 The liver is a crucial organ with high regenerative capacity
 The liver is another organ
 which lungs are the most common site of metastases
@@ -441,8 +436,7 @@ the liver is a possible site for the proliferation of abnormal lymphocytes
 The liver is the major site of clearance and degradation of foreign antigens
 The lung is a common site for primary and secondary infections
 the liver is the primary organ of viral replication
-The liver is a major target organ, and the injury generally arises from excessive hepatic inflammation 32
-33, which was significantly modulated in Stat4−/− mice
+The liver is a major target organ, and the injury generally arises from excessive hepatic inflammation 3233, which was significantly modulated in Stat4−/− mice
 The liver is a rich source of Kupffer cells
 the liver is a site for lymphocyte cell death
 the liver is a site for substantial MCMV replication
@@ -631,9 +625,7 @@ The lung is the most common site, but other sites are also reported, including t
 the brain is a complex, hierarchical system
 the liver is the site of detoxification of all types of toxins
 The stomach is the most common site of bezoar formation
-the brain is a DIPS formed by collections of loosely interacting neurons
-(agents) specialized for data collection (sensors), problem solving (associative
-neurons), data communication
+the brain is a DIPS formed by collections of loosely interacting neurons(agents) specialized for data collection (sensors), problem solving (associativeneurons), data communication
 the liver is a crucially important organ, and in a chronic hyperglycemic state the liver oxidative stress is considered
 the brain is an energetically expensive organ
 The brain is a complex network with abundant functional interactions among local and remote brain areas
@@ -1296,8 +1288,7 @@ The stomach is a relatively common site for extranodal lymphomas
 the brain is a highly specialized organ
 the brain is a sterile organ without any pathogens
 The liver is the most common site of CRC metastasis
-the liver is the main organ for drug
-metabolism after the ingestion of compounds
+the liver is the main organ for drugmetabolism after the ingestion of compounds
 The brain is a well recognized target tissue for androgens
 The lungs are the most commonly involved organs in adults
 The liver is the main organ
@@ -1387,8 +1378,7 @@ the heart is the first organ-system
 the liver is the major site of DHA biosynthesis
 The liver is the central organ of the metabolism of nutrients
 The liver is the principle organ of biotransformation
-The brain is the organ most susceptible
-to oxidative damage
+The brain is the organ most susceptibleto oxidative damage
 The liver is a target organ for toxic substances
 the liver is an important organ
 The brain is the most complex organ in the body
@@ -2079,19 +2069,16 @@ the lung is the limiting organ in myeloablative RIT
 the heart is the source of increased release of NPs
 the liver is a significant source of plasma CRP
 the brain is a steroidogenic organ
-the liver is the most likely primary site of
-            histiocytic sarcoma
+the liver is the most likely primary site of            histiocytic sarcoma
 the kidney is the major site of disease
 The liver is the major site of synthesis of almost all coagulation factors
-The liver is the organ that is most exposed to drugs, with the concentration in
-                    the liver often being higher than the peak plasma concentration
+The liver is the organ that is most exposed to drugs, with the concentration in                    the liver often being higher than the peak plasma concentration
 The liver is the most common target organ in rodent bioassays
 whom stomach is the most frequent site
 The liver is the main site of lipoprotein synthesis.[50
 The liver is the cardinal organ for Lp(a) synthesis.[55
 the liver is the organ that synthesizes Lp(a), reduced level of Lp(a) during chronic liver diseases
-The human lung is the primary organ involved in uptake of atmospheric O2 and is
-        therefore naturally susceptible to oxidative damage
+The human lung is the primary organ involved in uptake of atmospheric O2 and is        therefore naturally susceptible to oxidative damage
 The heart is the target of toxicity
 The pancreas is an exception
 the lungs is a major cause of dyspnea and respiratory-related morbidity in neonates
@@ -2331,8 +2318,7 @@ the lungs are an efficient port of entry for drugs
 the lung is the predominant site of cyst formation in children.[34
 The liver is the second most common site of involvement in tuberculosis of the abdominal solid organs
 The pancreas is a gland organ in the digestive system which has both endocrine
-The liver is the main organ responsible for the synthesis of 25-D3
-[24
+The liver is the main organ responsible for the synthesis of 25-D3[24
 The pancreas is the tenth most common site of new cancers
 The brain is a special organ in the context of injury
 The stomach is the most common site affected.3 Ishikura
@@ -2414,9 +2400,7 @@ The mammalian brain is a complex multicellular system
 The stomach is the major site of ghrelin expression
 the kidney are the principal sites of amino acid metabolism
 The liver is the major site of lipoprotein
-The lungs are the most
-affected organ, and pulmonary surfactant may be a target in ozone-induced lung
-toxicity
+The lungs are the mostaffected organ, and pulmonary surfactant may be a target in ozone-induced lungtoxicity
 the lung is the organ
 the brain is a critical site of estrogenic action
 the brain is a critical site for negative feedback regulation of the HPG axis
@@ -2489,9 +2473,7 @@ the liver is the focal point of virus replication
 The heart is the first functional organ that is developed in the process of embryonic development
 The lung is a common site for the metastatic spread of malignant tumors
 The liver is a tolerogenic environment
-The lung is the primary infection
-site, but dissemination occurs regularly, with the appearance of secondary lesions in
-other organs
+The lung is the primary infectionsite, but dissemination occurs regularly, with the appearance of secondary lesions inother organs
 The liver is an important organ for detoxification
 The kidney is a complex organ with over 30 different cell types
 The kidney is a major source
@@ -2654,7 +2636,6 @@ the heart is an important target organ
 the kidney is the unique tissue in which all isoforms are expressed
 The liver is the principal organ of the regulation of lipid metabolism
 the liver is a storage organ for Cu
-
 the liver is the first organ of the reticuloendothelial system that would allow for the initial dissemination of colon
 the heart is the source of plasma ANP
 the lung is the most inhomogeneous site in the human body
@@ -2780,8 +2761,7 @@ the liver is the source of origin
 the brain is a “hypothesis-tester
 The heart is the first functional organ to be formed during embryonic development (22 days after conception in humans, 8–8.5 days in mice) and is absolutely necessary for embryo survival
 The heart is the first organ required to function during embryonic development and is absolutely necessary for embryo survival
-The heart is the first organ to form in the embryo, and it is vital for the provision of
-oxygen and nutrients to the developing fetus
+The heart is the first organ to form in the embryo, and it is vital for the provision ofoxygen and nutrients to the developing fetus
 The human brain is a fascinating organ full of exquisite anatomical and functional detail
 The liver is the major site of catabolism of human HDL
 The liver is a major organ for amino acid metabolism
@@ -2790,8 +2770,7 @@ the liver is the primary ammonia metabolizing organ
 The liver is the largest internal organ in vertebrates, including humans
 The liver is a sensitive organ and is more prone to toxic injuries than other organs
 the brain is a control system
-the kidney is an energetically demanding organ
-[42, 43
+the kidney is an energetically demanding organ[42, 43
 The liver is the major site of synthesis of circulating TTR
 the kidney is the main organ responsible
 the brain is a real-time continuous-state recurrent network
@@ -2816,8 +2795,7 @@ the liver is the main detoxifying organ in mammals
 the brain is the critical site of cAMP signaling in Prkar2b knockout mice
 The pancreas is a vital internal organ with exocrine
 the heart is the first organ to form and disruption in its development
-the lung is a
-primary target of oxidative damage
+the lung is aprimary target of oxidative damage
 The kidney is a vital organ for blood pressure regulation
 the lungs are the entry route for the fungus
 the liver is an immune organ
@@ -3493,8 +3471,7 @@ The liver is a key visceral organ
 The liver is the principal organ for cholesterol de novo biosynthesis, which is catalyzed by the rate limiting enzyme 3-hydroxy-3-methyl-glutaryl-CoA reductase
 the brain is an energetically “expensive” organ
 The liver is the central organ for metabolism
-the brain is a highly
-vulnerable tissue to ROS-mediated injury
+the brain is a highlyvulnerable tissue to ROS-mediated injury
 the brain is the main organ
 The liver is the primary organ for detoxification
 the liver is the major site of intermediate metabolism
@@ -3586,9 +3563,7 @@ The liver is the most common targeted organ in CE (70%) and AE
 the brain is the center of neural
 The liver is the most commonly involved site of metastases
 the liver is the site of a majority lipoprotein secretion and uptake
-The pancreas is a very unique and complex organ composed of endocrine cells, responsible
-for the synthesis, storage and timely secretion of hormones (e.g., glucagon and
-insulin), and exocrine cells that produce pancreatic juice
+The pancreas is a very unique and complex organ composed of endocrine cells, responsiblefor the synthesis, storage and timely secretion of hormones (e.g., glucagon andinsulin), and exocrine cells that produce pancreatic juice
 the lungs are the most common site of metastasis
 the brain is the organ of greatest interest — intellectual disability
 The lung is the primary target of diverse insults
@@ -3866,8 +3841,7 @@ The lung is an attractive organ for gene therapy of these diseases
 the liver is the main organ
 The liver is the most common site for metastatic tumor deposits
 the liver is the major site of the synthesis of ketone bodies
-The stomach is the most affected segment up
-about 80% of the cases5
+The stomach is the most affected segment upabout 80% of the cases5
 the liver is a major metabolic organ
 the liver is the central organ
 the liver is the major one
@@ -4094,8 +4068,7 @@ the lung is a site of platelet biogenesis
 The liver is the largest organ in the body
 The liver is the organ primarily responsible
 the lung is a unique organ
-the brain is a major source for increased plasma BDNF in physically
-active individuals
+the brain is a major source for increased plasma BDNF in physicallyactive individuals
 The kidney is the most affected organ in postdiarrheal HUS, where very Stx-sensitive cells express high amounts of Gb3
 the brain is an important target of diabetic complications
 the brain is a complex organ
@@ -4257,8 +4230,7 @@ the lungs are the most common site of infection with B. pseudomallei
 the heart is the target
 The kidney is a highly radiosensitive organ
 The lung is the most common site of metastasis
-The liver is a major organ for the elimination of circulating
-nanoparticles
+The liver is a major organ for the elimination of circulatingnanoparticles
 The liver is an essential organ of the human body
 the brain is an immunologically privileged organ
 The kidneys are an uncommon site
@@ -4382,8 +4354,7 @@ The liver is the site for drug detoxification
 the kidney is no different.[59
 the liver is the likely source of HDL-delivered miR-223
 The kidney is a frequent target organ in IgG4-RD
-The lungs are the main target of air
-pollution attack
+The lungs are the main target of airpollution attack
 the liver is the first
 the liver is the gold standard in preclinical studies
 The lungs are the most frequently involved organ for such infection
@@ -4532,8 +4503,7 @@ The lung is the most common primary carcinoma site
 The lungs are the second most frequent site of hydatidosis
 the liver is an organ
 The mammalian brain is an extremely complex organ harboring
-the brain is the
-last and least affected organ in fetal deprivation15
+the brain is thelast and least affected organ in fetal deprivation15
 the liver is the most commonly affected organ
 the liver is the major site of metabolism for most opioids
 the liver is the most common metastatic site for patients with CRC
@@ -4703,8 +4673,7 @@ The lung is a major site of infection
 The pancreas is a non-encapsulated organ
 the pancreas is a non-encapsulated organ
 the stomach is a fleshy muscular organ
-the kidney is a major source of local
-ghrelin
+the kidney is a major source of localghrelin
 The kidney is a major source of local ghrelin
 the kidney is a suitable organ for diffusion studies because of its high blood flow
 the liver is the most important detoxification organ
@@ -4789,8 +4758,7 @@ the brain is the organ most sensitive to heat
 The kidney is a major target organ in antiphospholipid antibody syndrome (APLAS).[1
 The liver is a common site of metastasis
 The stomach is the most common site of gastrointestinal schwannomas
-the liver is an internal organ that is responsible for the metabolism and storage of
-nutrition
+the liver is an internal organ that is responsible for the metabolism and storage ofnutrition
 The kidney is the second site where 1‐α‐hydroxylase converts 25(OH
 The brain is a remarkably avid consumer of energy
 the liver is the major source of circulating IGFs
@@ -4849,8 +4817,7 @@ the kidney is an encapsulated organ
 the lungs are the most affected organ by fluid overload
 the liver is the major site of Hp expression
 The human pancreas is a compact organ
-The pancreas is a thick, fairly solid gland extending transversely along the dorsal wall
-of the abdomen from the duodenum to the spleen and is divided into three parts
+The pancreas is a thick, fairly solid gland extending transversely along the dorsal wallof the abdomen from the duodenum to the spleen and is divided into three parts
 The pancreas is an extensive thick gland with an irregular outline
 The brain is a highly vascularized organ with a relatively high proportion of endothelial cells
 The kidneys are an important excretory organ and regulate
@@ -5525,8 +5492,7 @@ The kidney is the principle vital organ
 The brain is a highly complex
 The lung is the most susceptible organ
 The liver is the principal organ
-The lungs are a major site for
-circulating AM clearance
+The lungs are a major site forcirculating AM clearance
 The kidney is an anatomically complex organ with a huge variety of cell types and cell environments
 the liver is the main organ
 the heart is a terminally differentiated organ with no capacity for cardiomyocyte renewal
@@ -5723,8 +5689,6 @@ The liver is the biggest generator of plasma apoE
 The liver is an important immune-tolerant organ
 The liver is the most common metastatic site of colorectal cancer and liver metastasis
 the lungs are the most frequently affected organs in severe sepsis
-
-
 The lung is a vital and complex organ
 the liver is an important organ
 the lungs are the target of injury
@@ -6227,8 +6191,7 @@ The liver is the central organ of glucose, lipid
 The liver is a key metabolic organ controlling aspects of lipid metabolism
 the liver is a radiosensitive organ
 The pancreas is a mixed gland
-The liver is the
-primary site of HBV replication (–
+The liver is theprimary site of HBV replication (–
 The kidney is a vascular organ, and nicorandil is recently reported
 the liver is a multifaceted organ with distinct tissue structures that represent unique environments for SIV replication
 The lung is a GM‐CSF‐rich environment
@@ -6437,8 +6400,7 @@ The liver is the primary site of distant hematogenous metastases for cancers of 
 The liver is the front-line organ that receives and responds to gut-derived products
 The liver is the front-line organ that receives gut-derived products
 the liver is a vital organ
-the kidney is the main target of an unbalanced pro-angiogenic
-and anti-angiogenic derangement
+the kidney is the main target of an unbalanced pro-angiogenicand anti-angiogenic derangement
 The liver is a central metabolic organ that is involved in synthesis, storage
 The liver is an organ with multiple functions, such as metabolism
 The mammalian heart is a mechanical pump with the function
@@ -6986,8 +6948,7 @@ The liver is a frequent site of metastasis
 the liver is the most frequently involved
 the liver is the major contributor to serum levels
 The lungs are the most common primary sites of disease
-The lung is the most easily infected organ in
-humans
+The lung is the most easily infected organ inhumans
 The stomach is a unique environment which influences the rest of the microbiome
 The lung is a rare site of primary synovial sarcoma
 The liver is the main target site of insulin
@@ -7087,8 +7048,7 @@ the lungs are the second most prominent metastatic organs in which these develop
 The liver is a primary organ involved in the regulation of blood glucose levels, and it does
 The kidney is a key organ
 The liver is an important metabolic organ with various complex physiological functions, including nutrient metabolism (lipids, proteins and carbohydrates) and waste excretion
-the liver is an
-organ that regenerates itself
+the liver is anorgan that regenerates itself
 the liver is the most common site of distant metastases from colonic SCC
 the kidney is an innocent bystander of an otherwise systemic disease
 The liver is an organ in which, due to vascularisation and functions, metastases occur
@@ -7188,8 +7148,7 @@ The kidney is an important organ with multiple functions such as filtration func
 The kidney is an organ with a complex structure
 The pancreas is a vital organ of metabolism
 the liver is the detoxification organ for the entire body
-The liver is a central organ that performs a wide range of essential functions, including
-digestion
+The liver is a central organ that performs a wide range of essential functions, includingdigestion
 The liver is the main organ for amino acid catabolism which results in the production of 50 to 99% ammonia
 The liver is the primary target organ for AF
 The liver is the main detoxifying organ in the body
@@ -7255,8 +7214,7 @@ The liver is the most commonly affected organ in metastatic disease
 the lungs are a common destination for cancer
 the liver is the most common site for PC metastasis
 The brain is the anatomical substrate of behavior
-The liver is a vital organ in the body that regulates 
-metabolism
+The liver is a vital organ in the body that regulates metabolism
 The liver is a major site of insulin action in adults
 The heart is a muscular pump
 the kidneys are the dose-limiting organs in PRRT treatments
@@ -8384,8 +8342,7 @@ the heart is the primary input to the studied intracranial dynamics
 The brain is a complex network
 the kidney is another major organ to which OPC-163493 is distributed and the blood vessel wall is also constantly exposed to blood OPC-163493
 The liver is the primary location for metabolism
-The liver is the only
-tissue that contains the complete set of enzymes of the KP
+The liver is the onlytissue that contains the complete set of enzymes of the KP
 The kidneys are the major organ of Ca excretion
 the liver is a net glucose consumer, rather than a glucose exporter
 The liver is the most published organ for PDFF
@@ -8844,10 +8801,8 @@ the kidney is the organ that thymocytes preferentially colonize
 The human brain is a network of a great diversity of cells that ensure proper cerebral function
 the liver is the organ with the highest activity
 The liver is a major organ that is exposed to bacterial products
-the lungs are the primary
-targets
-the liver is the major
-organ expressing GSTs
+the lungs are the primarytargets
+the liver is the majororgan expressing GSTs
 the brain is the most complex part of all human organs
 The liver is the most common site of metastasis from colorectal cancer
 the brain is the target organ for registration
@@ -9382,8 +9337,7 @@ the brain is a high energy consuming organ with high metabolic activity
 The liver is a complex organ with multiple physiological functions
 the brain is a ‘reducing valve
 the liver is a highly irrigated organ where most of the nanoparticles tend
-The kidney is an
-essential site of its production
+The kidney is anessential site of its production
 the liver is a pivotal metabolic organ
 The liver is the largest gland of both the human and animal body
 The brain is a challenging organ for drug delivery
@@ -9641,9 +9595,7 @@ the kidneys are the main pathway for MTX elimination, and approximately 70–90%
 The liver is the major site
 The liver is a common site for metastatic disease, especially from colorectal cancer
 The human brain is a highly aerobic organ
-The liver is the major organ that
-responsible for alcohol metabolism, and it oxidizes ethanol mainly through the dehydrogenase
-system and microsomal ethanol oxidizing system
+The liver is the major organ thatresponsible for alcohol metabolism, and it oxidizes ethanol mainly through the dehydrogenasesystem and microsomal ethanol oxidizing system
 the liver is the most exposed organ to metabolites
 The kidney is the main target for oxalate deposition
 The kidney is the ultimate collective route for the removal of drugs
@@ -9912,8 +9864,7 @@ The liver is the most common organ for metastasis from colorectal neoplasms
 the brain is the primary site of FGF21 action
 the lung is a complex tissue, consisting of at least 40 cell types tightly embedded into extracellular matrix, and both the cellular composition and matrix characteristics change during disease
 The pancreas is an organ of endodermal origin
-The lung is the most important
-organ that must always be inspected for injuries
+The lung is the most importantorgan that must always be inspected for injuries
 The liver is the main site of cisplatin metabolism
 The liver is the largest and most important reticuloendothelial organ of our body
 the liver is the largest parenchymal organ in the torso
@@ -9934,8 +9885,7 @@ The heart is a metabolic omnivore that requires use of a plethora of substrates
 the liver is the major site of metabolism for most opioids
 the heart is a 3D structure
 the stomach is a major source of orexigenic peptides that trigger the initiation of food intake
-The kidney is a commonly affected organ in
-humans and many other reported animals with systemic amyloidosis
+The kidney is a commonly affected organ inhumans and many other reported animals with systemic amyloidosis
 The liver is the metabolic center of the body
 the brain is the central unit that orchestrates the execution of behaviors
 The kidney is the main organ
@@ -10098,8 +10048,7 @@ the lungs are the primary route of entry for this organism
 The brain is a dynamic structure with the extracellular space
 The kidney is a vulnerable organ as well as the most important target of microvascular damage
 The liver is the most important target organ for metastasis of colorectal cancer
-the lung is the
-most susceptible organ in systemic inflammation
+the lung is themost susceptible organ in systemic inflammation
 The stomach is the primary organ that is damaged by H. pylori
 The liver is a complex network of inter-related cells
 The liver is the primary organ for detoxification in human body
@@ -10520,9 +10469,7 @@ The liver is a key regulatory organ in lipid metabolism
 The kidney is the primary site of serum phosphorus regulation
 The brain is the cradle of mood, emotion, cognition
 The liver is the primary site of AA metabolism
-The liver is a highly organised tissue, and the
-porto-central axis of the acinus is a fundamental functional unit during
-homeostasis
+The liver is a highly organised tissue, and theporto-central axis of the acinus is a fundamental functional unit duringhomeostasis
 The liver is the main target organ in HBV infection
 The liver is a multi-tasking organ
 the liver is the major site of metastasis from colon
@@ -10776,14 +10723,7 @@ the liver is a tolerogenic organ
 The heart is the primary target of acute CO poisoning
 The lung is the only organ that receives blood and lymph circulation from the whole body
 the brain is a dissipative structure (Kondepudi et al., 2017) in the sense
-The liver is a key organ for maintaining glucose homeostasis, converting almost one third of glucose from the blood to glycogen after the ingestion of a meal.[
-
-
-] Glucose transporters (GLUTs) are a group of plasma membrane proteins that facilitate glucose transport across the cell membrane.[
-
-, 
-
-] Among the GLUT subtypes
+The liver is a key organ for maintaining glucose homeostasis, converting almost one third of glucose from the blood to glycogen after the ingestion of a meal.[] Glucose transporters (GLUTs) are a group of plasma membrane proteins that facilitate glucose transport across the cell membrane.[, ] Among the GLUT subtypes
 the lungs are the site of drug action
 The heart is an organ with high energy demand
 the liver is the primary drug metabolizing organ
@@ -10920,8 +10860,7 @@ the lung is the most frequently injured structure
 the liver is the major source of drastically increased SAA1
 the liver is the vital organ in drug metabolism
 The brain is a highly energy‐consuming organ
-The pancreas is a fibrous‐rich organ, which is better evaluated using ultrasonography,
- and PDAC is rich in fibrous components that are denatured and replaced by fibrous interstitial cells
+The pancreas is a fibrous‐rich organ, which is better evaluated using ultrasonography, and PDAC is rich in fibrous components that are denatured and replaced by fibrous interstitial cells
 the brain is a preferential metastasis site of lung cancer
 The human brain is a complex system, and there has been growing
 the brain is a complex system
@@ -10992,8 +10931,7 @@ the liver is the central organ of lipid metabolism
 the lung is the primary site of infection and failure of this organ
 The lung is the most common organ
 The brain is a complex
-The liver is the
-major source of serum complement
+The liver is themajor source of serum complement
 the liver is the most frequently affected organ by metastasis
 the heart is an organ that does not show post-natal expansions in mice
 The liver is a vital organ
@@ -11641,8 +11579,7 @@ the lung is the only organ
 The liver is a major site for the regulation of immune and inflammatory responses
 The liver is an essential site for bacterial phagocytosis
 The liver is an endocrine gland that secretes bile acids
-the human lung is a structurally complex
-organ
+the human lung is a structurally complexorgan
 the lung is the most vulnerable
 the lung is a site for platelet biogenesis
 the brain is the most lipid-rich organ
@@ -11774,8 +11711,7 @@ The lung is the portal of entry for M. tuberculosis
 the kidneys is a hallmark in hypertensive patients (2) and in experimental models of hypertension
 The brain is a lipid-rich organ, and neuronal lipid metabolism regulates
 The human lung is the primary target of SARS‐CoV‐2 infection
-The lungs are the major capillary bed where breast cancer cells meet for the first
-time
+The lungs are the major capillary bed where breast cancer cells meet for the firsttime
 the lung is the main site of TB in cattle
 The liver is the main site for AGE catabolism
 the brain is a component within a much larger system
@@ -11798,7 +11734,6 @@ The brain is a complex system of interconnected components that can be studied a
 the lung is a major target organ of the virus
 the lung is the most susceptible organ
 the kidney is no exception.1
-
 The kidney is the main site of CYP27B1 expression
 the liver is a major site for vitamin D 25‐hydroxylation
 the liver is the most common site for HC
@@ -12256,8 +12191,7 @@ the kidneys are the organ systems
 The lung is the most common metastasis site in Wilms' tumors
 the lung is the predominant site of TB
 the lung is the primary site of A. baumannii infection
-the brain is a predictive “machine” that updates
-its “model of the world
+the brain is a predictive “machine” that updatesits “model of the world
 The liver is the first target of portal LPS
 the human brain is the product of our particular evolutionary history
 the brain is a physical entity
@@ -12402,8 +12336,7 @@ The liver is the key organ
 The liver is the major site for synthesis of NAD+
 The liver is an important immunological organ that controls systemic tolerance
 The stomach is a muscular organ
-The liver is a
-highly oxygen dependent organ
+The liver is ahighly oxygen dependent organ
 The liver is the largest solid organ in the human body
 the brain is the most affected organ with MPS III, brain-targeted gene replacement therapies
 The liver is the primary site of iron storage in the human body
@@ -12869,8 +12802,7 @@ The liver is an essential organ that plays a variety of roles, such as detoxific
 The kidney is the main target of destruction in chronic kidney disease
 The mammalian brain is the most complex biological structure known, with innumerable distinct cell types
 the heart is a 2‐chambered pump with a dorsally‐caudally positioned atrial chamber
-The lung is the most
-common portal of entry, where it migrates to the valves
+The lung is the mostcommon portal of entry, where it migrates to the valves
 the human brain is a complex, dynamic system
 the liver is the main organ of metabolism for the drug and the site where accumulation of glyceryl behenate may occur,59 and the kidney is the excretory organ for the drug
 the kidney is the excretory organ for the drug
@@ -13205,8 +13137,7 @@ The liver is a pivotal organ for vitamin D metabolism, where 25‐hydroxylation 
 the liver is the most common site of metastatic disease
 the liver is a target organ in atherogenic dyslipidemia
 The pancreas is a key organ in glucose homeostasis and the development of DM
-The kidney is a complex organ and consists of over 20 different types of cells which are
-constructed into individual anatomical and functional units including the glomerulus
+The kidney is a complex organ and consists of over 20 different types of cells which areconstructed into individual anatomical and functional units including the glomerulus
 the brain is an important
 The heart is a high oxygen-consuming, high energy-consuming organ
 the kidney is the main hematopoietic tissue in the absence of bone marrow
@@ -13358,8 +13289,7 @@ the liver is the biggest gland in an organism
 The liver is the central organ for metabolism
 The liver is a central immunomodulator that keeps the balance between protection and immunotolerance.30,31 Deregulation of the liver immunological network
 the liver is the most common site
-the lung is the main organ for occupational exposure to
-nanomaterials48
+the lung is the main organ for occupational exposure tonanomaterials48
 the lung is the most common site for metastasis
 The liver is a pivotal immunological organ which serves a crucial role in host defense
 The kidney is a primary target for chemical-induced toxicity
@@ -13487,8 +13417,7 @@ The human brain is an energetically expensive organ, which uses approximately 20
 the liver is a major organ for fat storage
 The brain is the crown gem of creation
 the liver is the most affected organ in our set
-The lung is an organ in which numerous
-macrophages are found, and these macrophages play a central role in multiple processes
+The lung is an organ in which numerousmacrophages are found, and these macrophages play a central role in multiple processes
 the lung is the most sensitive and vulnerable organ
 the lungs are the initial and the most prominent site of damage that needs attention
 The kidney is a complex organ that maintains physiological homeostasis
@@ -13560,10 +13489,7 @@ the lung is the primary target organ of this virus
 The liver is a unique immune environment
 the kidney is a capsule organ
 The heart is the first organ to form in utero, and it is essential
-The human brain is an exceptionally complex structure, reflecting specialized spatial, structural, and cell‐type organization across different cells and anatomical regions.[
-
-
-] Knowledge of the molecular properties of these diverse components can provide
+The human brain is an exceptionally complex structure, reflecting specialized spatial, structural, and cell‐type organization across different cells and anatomical regions.[] Knowledge of the molecular properties of these diverse components can provide
 The liver is a unique organ with an extraordinary capacity
 The liver is the largest solid organ in the body
 the brain is an old one
@@ -14616,8 +14542,7 @@ The liver is the most common site of recurrence
 The kidney is an iron metabolism-related organ with biofunctions
 the kidney is an iron metabolism-related organ, exploring and assessing
 The liver is the most common location of colorectal cancer metastasis
-The kidney is an
-important organ in PCAS
+The kidney is animportant organ in PCAS
 the brain is the most energy-consuming organ
 the kidneys are no exception
 The brain is an organ with the highest energy consumption
@@ -16581,8 +16506,7 @@ the brain is a highly complex network
 The liver is a frequently injured organ in blunt
 The liver is the organ
 The brain is a commonly damaged organ of neonatal asphyxia
-the liver is the
-most affected organ
+the liver is themost affected organ
 the liver is the most common organ of infection
 The liver is the most common site of parasites
 the liver is the most frequent site of distant metastasis from CRC
@@ -17077,8 +17001,7 @@ the kidney is a critical organ for survival
 The kidney is a vital organ, where tissue damage reactivates specific pathways
 The brain is a notoriously difficult organ
 the lung is the primary tropism of SARS-CoV-2
-the kidney is a
-major site of arachidonic acid release
+the kidney is amajor site of arachidonic acid release
 the heart is the second major organ
 The liver is the second-largest organ in the human body
 The liver is an organ with a strong regenerative capacity in response to injuries that involve hepatocytes
@@ -17099,9 +17022,7 @@ The liver is the largest metabolic and immunological organ in the body
 The liver is the most important blood-producing organ in fetal life
 The liver is a highly active metabolic organ, which is responsible for metabolic homeostasis and is crucial for survival, but hypoxia could cause liver injury via oxidative stress mechanisms
 The liver is the organ that can produce glucose
-The brain is the real creator; it “paints” the colours we see. The
-Watercolour Illusion, however, is just the tip of the iceberg: Colours do not exist
-physically, but only through our cognitive apparatus
+The brain is the real creator; it “paints” the colours we see. TheWatercolour Illusion, however, is just the tip of the iceberg: Colours do not existphysically, but only through our cognitive apparatus
 the liver is the major producing organ
 the kidney is an important organ of reproductive immunity of the body
 the kidney is a comprehensive organ that is not just reputed as an anatomical structure
@@ -17259,8 +17180,7 @@ the lungs are the principal target organs for SARS-CoV-2[22,23
 The liver is a key organ in nearly all metabolic processes
 the liver is an organ suitable for the growth of metastatic colon cancer cells
 The liver is the predominant place to secret bile
-The liver is an
-organ that exhibits significant regenerative ability
+The liver is anorgan that exhibits significant regenerative ability
 the brain is a viable site of replication
 The lung is a common site of metastases
 the heart is an organ
@@ -19035,11 +18955,7 @@ the brain is the organ responsible for its integration
 the brain is the part of the body
 The lung is the primary target of SARS-CoV-2 infection
 the liver is the principal site
-
-
-The liver is an alternative route of the excretion
-of intravenous (iodinated or gadolinium-based) contrast media, which can result
-
+The liver is an alternative route of the excretionof intravenous (iodinated or gadolinium-based) contrast media, which can result
 the liver is the main organ of metabolism in the body and the metabolism center of various substances
 the human brain is such a complicated organ
 the kidney is the master of the ear orifice
@@ -19566,16 +19482,7 @@ the liver is the most important organ
 The lung is the organ most frequently affected by non-tuberculous mycobacterial infection, and it has been reported
 the liver is an organ with a rich supply of blood
 The liver is an important organ
-The liver is a reasonably well‐equipped “chemical factory,” that entails a myriad of physiological processes.[
-
-
-] It maintains homeostasis of the whole body by regulating several diverse physiological functions,[
-
-
-] including substance synthesis, metabolic waste decomposition, and metabolism regulation.[
-
-
-] Carrying so many functions, it could be susceptible to negative stimulation, such as obesity
+The liver is a reasonably well‐equipped “chemical factory,” that entails a myriad of physiological processes.[] It maintains homeostasis of the whole body by regulating several diverse physiological functions,[] including substance synthesis, metabolic waste decomposition, and metabolism regulation.[] Carrying so many functions, it could be susceptible to negative stimulation, such as obesity
 the liver is the organ with the highest iron storage capacity in the human body
 The heart is a 3D organ structure which favors the development of the heart
 the kidney is a major epithelial organ
@@ -20323,8 +20230,6 @@ The liver is the primary organ to metabolize fructose, and overwhelming fructose
 The liver is the largest organ of the body
 The liver is the most involved organ
 The liver is a vital organ that interacts with other organs
-
-
 The lung is an important respiratory organ in humans
 the lung is a reservoir for haematopoietic progenitors
 The liver is an important human organ that integrates five main functions
@@ -20543,11 +20448,7 @@ The liver is an essential organ for drug metabolism
 The brain is the most advanced center for pruritus regulation
 the heart is an organ that is highly dependent on energy
 The liver is the typical organ
-The human brain is a highly efficient biological computing system that can perform complex calculations through the constituent neurons.[
-
-, 
-
-] In this system, synapses are the basic units
+The human brain is a highly efficient biological computing system that can perform complex calculations through the constituent neurons.[, ] In this system, synapses are the basic units
 The kidney is the most commonly replaced organ, and renal allografts are prone to immune rejection
 The liver is the organ
 The liver is the second largest organ and has
@@ -20665,8 +20566,7 @@ The liver is the largest immune organ in the human body
 The lung is the first and most commonly damaged organ in sepsis
 the lung is the first organ
 The kidney is a highly vascularized organ
-the brain is a soft tissue, with Young’s
-modulus between 1 and 14 kPa in humans
+the brain is a soft tissue, with Young’smodulus between 1 and 14 kPa in humans
 the kidney is the organ most affected by nanosized materials, and also the target organ for accumulation
 The lung is an understudied site of HIV persistence
 the heart is a container
@@ -22058,9 +21958,7 @@ The lung is a preferential site for HTLV-1 infection
 The lungs are the most common sites of metastasis
 the kidney is the most common urinary organ
 the lung is the commonest organ
-the liver is an important
-raw material with potential for high-quality development and a highly effective
-emulsifier for processing
+the liver is an importantraw material with potential for high-quality development and a highly effectiveemulsifier for processing
 The liver is a major source of proteins for the innate
 the kidney is a main source of soluble ACE2
 the lung is the primary organ
@@ -22304,9 +22202,7 @@ The kidney is the key organ for fine-tuning Pi homeostasis
 The lung is the organ
 The liver is a key organ in the signaling cascade
 The liver is a major metabolic support organ and is involved in reproduction
-The liver is the largest organ inside the body, responsible for almost all metabolic
-processes including fat metabolism, maintaining of blood glucose levels, and insulin
-metabolism that is all associated with PCOS
+The liver is the largest organ inside the body, responsible for almost all metabolicprocesses including fat metabolism, maintaining of blood glucose levels, and insulinmetabolism that is all associated with PCOS
 The liver is a principal site for the metabolization and elimination of chemical substances
 The liver is the main site for metabolism of azithromycin
 the kidney is the second-most metabolically active organ, which requires a tremendous amount of ATP
@@ -22729,8 +22625,7 @@ The liver is the most frequently involved organ in extra-intestinal amoebiasis
 The brain is a relatively complex organ
 the liver is the major site for ApoA‐1 protein production
 The lung is the most common site of distant metastases
-the liver is a
-target organ for several nanomaterials
+the liver is atarget organ for several nanomaterials
 The liver is the largest metabolic organ, and the level of SAM/SAH in the liver can reflect
 the brain is the most cholesterol-rich organ in the body
 The brain is the most important organ in the body
@@ -22852,8 +22747,7 @@ The stomach is the most commonly involved site
 the liver is the most frequent location of visceral injuries,[8
 The lung is the most common organ
 The lung is the second most common site of colorectal cancer (CRC) metastases
-The liver is the main stockpiling network for
-carotenoids
+The liver is the main stockpiling network forcarotenoids
 the kidney is an encapsulated organ with poor expandability
 the brain is a dynamic system that bases its development on experiences between neural activity and stimulation from the environment
 The liver is the principal organ
@@ -23185,8 +23079,7 @@ The brain is a complex organ that enables organisms
 The liver is a key site for amino acid metabolism and damage to this organ
 The lung is a crucial organ that consists of dozens of different cell populations
 The kidney is a complex organ with distinct spatial compartments
-the liver is the major cholesterol biosynthetic
-organ
+the liver is the major cholesterol biosyntheticorgan
 the liver is a crucial organ in the regulation of lipid metabolism
 The liver is the major metastatic site of leiomyosarcoma
 The liver is the largest organ that physiologically undertakes the degradation of metabolites
@@ -24369,8 +24262,7 @@ the liver is the largest visceral organ in the human body
 The liver is a vital member that is mostly responsible for the storage of glycogen and regulation of blood glucose levels
 the brain is the central organ that reacts and adapts to psychosocial stress
 the liver is no exception
-the brain is the
-second-most lipid enriched tissue in the body
+the brain is thesecond-most lipid enriched tissue in the body
 the liver is the site of action for both drugs
 The kidney is the most important target of diabetic microvascular damage in diabetic patients, and diabetic kidney disease
 The stomach is a hollow organ
@@ -24533,4 +24425,3 @@ The lung is the target organ of many respiratory viruses, such as influenza
 the liver is the organ
 the kidney is a highly microbiota-susceptible target organ in HTN
 The liver is the major organ of the body that helps
-
