@@ -14,19 +14,41 @@ model = spacy.load('en_core_sci_lg')
 # Initialize Matcher and create matching patterns
 matcher = Matcher(model.vocab)
 
-# copula phrase
-pattern = [{"POS": 'DET'}, {"LOWER": 'brain', 'DEP': 'nsubj'}, 
-           {"LOWER": 'is', 'DEP': 'cop'}, {"POS": 'DET'}]
-matcher.add('brain', [pattern])
+# entity strings for search entities
+# load entity strings
+with open('entity_strings.txt', 'r') as file:
+    entities = [line.rstrip() for line in file]
 
-# copula phrase with adjective modifiers
-pattern_human = [{"POS": 'DET'}, {"LOWER": 'human'}, {"LOWER": 'brain', 'DEP': 'nsubj'}, 
-               {"LOWER": 'is', 'DEP': 'cop'}, {"POS": 'DET'}]
-matcher.add('human_brain', [pattern_human])
+# create phrase patterns to match on 
+for e in entities:
+    # rename all brain entities to 'brain'
+    # copula phrase
+    pattern = [
+        {"POS": 'DET'}, 
+        {"LOWER": e, 'DEP': 'nsubj'}, 
+        {"LOWER": {"IN": ['is', 'are']}, 'DEP': 'cop'}, 
+        {"POS": 'DET'}
+    ]
+    matcher.add(e, [pattern])
+    # copula phrase with 'human' modifier
+    pattern_adj = [
+        {"POS": 'DET'}, 
+        {"LOWER": 'human'}, 
+        {"LOWER": e, 'DEP': 'nsubj'}, 
+        {"LOWER": {"IN": ['is', 'are']}, 'DEP': 'cop'}, 
+        {"POS": 'DET'}
+    ]
+    matcher.add(f'{e}_human', [pattern_adj])
+    # copula phrase with 'mammalian' modifier
+    pattern_adj = [
+        {"POS": 'DET'}, 
+        {"LOWER": 'mammalian'}, 
+        {"LOWER": e, 'DEP': 'nsubj'}, 
+        {"LOWER": {"IN": ['is', 'are']}, 'DEP': 'cop'}, 
+        {"POS": 'DET'}
+    ]
+    matcher.add(f'{e}_mammal', [pattern_adj])
 
-pattern_mammal = [{"POS": 'DET'}, {"LOWER": 'mammalian'}, {"LOWER": 'brain', 'DEP': 'nsubj'}, 
-               {"LOWER": 'is', 'DEP': 'cop'}, {"POS": 'DET'}]
-matcher.add('mammalian_brain', [pattern_mammal])
 
 # load sentence embedding model from HuggingFace
 scibert_embed = SentenceTransformer('pritamdeka/S-Scibert-snli-multinli-stsb')
@@ -105,16 +127,19 @@ def embed_phrase(sents, doi):
                 span = doc[start:end]  # The matched span
                 start_idx, end_idx = phrase_extend(span, doc, string_id)
                 span_extend = doc[start_idx:end_idx]
-                if string_id == 'brain':
-                    phrase_text = span_extend.text
-                else:
+                # replace entity string with 'organ' so entity string doesn't influence 
+                # embedding similarity
+                if string_id.endswith('_human') or string_id.endswith('_mammal'):
                     # if adjective in front of 'brain', remove (so it doesn't)
                     # influence embedding similarity
                     phrase_text = ' '.join(
                         [t.text for i, t in enumerate(span_extend) if i != 1]
                     )
+                else:
+                    phrase_text = span_extend.text
+
                 embed = scibert_embed.encode(phrase_text)
-                phrase_embed.append([doi, span_extend.text, embed])
+                phrase_embed.append([doi, string_id, span_extend.text, embed])
                  
     return phrase_embed
 

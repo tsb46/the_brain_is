@@ -9,21 +9,36 @@ from spacy.matcher import Matcher
 from tqdm import tqdm
 
 
+# entity strings for search entities
+# load entity strings
+with open('entity_strings.txt', 'r') as file:
+    entities = [line.rstrip() for line in file]
 
 # load SpaCy model
 model = spacy.load('en_core_sci_lg')
 # Initialize Matcher and create matching patterns
 matcher = Matcher(model.vocab)
 
-# copula phrase
-pattern = [{"POS": 'DET'}, {"LOWER": 'brain', 'DEP': 'nsubj'}, 
-           {"LOWER": 'is', 'DEP': 'cop'}, {"POS": 'DET'}]
-matcher.add('brain', [pattern])
 
-# copula phrase with adjective modifier
-pattern_adj = [{"POS": 'DET'}, {"POS": 'ADJ'}, {"LOWER": 'brain', 'DEP': 'nsubj'}, 
-               {"LOWER": 'is', 'DEP': 'cop'}, {"POS": 'DET'}]
-matcher.add('brain_adj', [pattern_adj])
+# create phrase patterns to match on 
+for e in entities:
+    # copula phrase
+    pattern = [
+        {"POS": 'DET'}, 
+        {"LOWER": e, 'DEP': 'nsubj'}, 
+        {"LOWER": {"IN": ['is', 'are']}, 'DEP': 'cop'}, 
+        {"POS": 'DET'}
+    ]
+    matcher.add(e, [pattern])
+    # copula phrase with adjective modifier
+    pattern_adj = [
+        {"POS": 'DET'}, 
+        {"POS": 'ADJ'}, 
+        {"LOWER": e, 'DEP': 'nsubj'}, 
+        {"LOWER": {"IN": ['is', 'are']}, 'DEP': 'cop'}, 
+        {"POS": 'DET'}
+    ]
+    matcher.add(f'{e}_adj', [pattern_adj])
 
 
 def find_matches(article):
@@ -49,8 +64,6 @@ def find_sentences(article_text):
                 span = doc[start:end]  # The matched span
                 sent.append(span.sent.text)
     return sent
-
-
 
 
 if __name__ == "__main__":
